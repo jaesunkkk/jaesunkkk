@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaesunkkk
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Deeplearning, Backend
 
 
 <!---
